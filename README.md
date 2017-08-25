@@ -1,6 +1,6 @@
 # VueJS 2 - The Complete Guide
 
-### Visit the [VueJS-Complete-Guide wiki](https://github.com/oanstein/VueJS-Complete-Guide/wiki)!
+### Visit the [VueJS-Complete-Guide-Code wiki](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki)!
 
 ## Description 
 No matter at which Metric you look (Google Trends, Github Stars, Tweets ...) VueJS is the Shooting Star in the World of JavaScript Frameworks - it simply is amazing! 
@@ -50,7 +50,6 @@ This repo contains all of the code from [The Vue-JS 2 Complete Guide course on U
     * 02_v_for
     * Exercise
 * **03_monster_slayer**
-    * css
 * **04_vue_instance**
     * 01_instance_vue
     * 02_vue_lifecycle_in_practice
