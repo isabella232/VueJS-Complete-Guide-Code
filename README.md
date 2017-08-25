@@ -26,10 +26,11 @@ Frontend Frameworks are extremely popular because they give us this reactive, gr
 This repo contains all of the code from [The Vue-JS 2 Complete Guide course on Udemy](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview).
 
 ## Index
-* **01_dom_interaction**
-    * 01_events_and_methods
-    * 02_html_binding
-    * 03_computed_props
+* **00 [Home](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki)**
+* **01 [DOM Interactions](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/DOM-Interaction)**
+    * 01 [Events and Methods](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Events-and-Methods)
+    * 02 [HTML Binding](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/HTML-Binding)
+    * 03 [Computed Props](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Computed-Props)
     * 04_conditional_and_lists
     * 05_filters
     * 06_components
@@ -81,6 +82,8 @@ This repo contains all of the code from [The Vue-JS 2 Complete Guide course on U
 * **17_vuex**
     * state_management
     * vuex_master
+* **18 [Final Project](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Final-Project)**
+    * the_stock_trader_app
 * Assignment_7
 * VueImages
 * vue-mindspace
