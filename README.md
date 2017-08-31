@@ -33,7 +33,7 @@ This repo contains all of the code from [The Vue-JS 2 Complete Guide course on U
     * 03 [Computed Props](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Computed-Props)
     * 04_conditional_and_lists
     * 05_filters
-    * 06_components
+    * 06 [Components](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Components)
     * 07_disable_rerendering
     * 08_raw_html
     * 09_events
@@ -57,7 +57,7 @@ This repo contains all of the code from [The Vue-JS 2 Complete Guide course on U
 * **05_vue_cli**
 * **06_components**
 * **07_component_assignment**
-* **08_communication_btn_cmps**
+* **08 [Communication between Components](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Communication-between-Components)**
 * **09_advanced_components**
     * Assignment_8
     * advanced_components
@@ -71,10 +71,10 @@ This repo contains all of the code from [The Vue-JS 2 Complete Guide course on U
 * **13_filters_and_mixins**
     * assignment_filters_and_mixins
     * filters_and_mixins
-* **14_animations_and_transitions**
-    * Monster Slayer with Animations
-    * animations
-    * assignment-super-quiz
+* **14 [Animations and Transitions](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Animations-and-Transitions)**
+    * [Monster Slayer with Animations](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Monster-Slayer-with-Animations)
+    * [Animations](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Animations)
+    * [Assignment: Super Quiz](https://github.com/oanstein/VueJS-Complete-Guide-Code/wiki/Assignment:-Super-Quiz)
 * **15_http**
     * vue-resource
 * **16_routing**
